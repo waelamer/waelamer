@@ -9,7 +9,7 @@
 ## Experience
 
 With over 19 years of experience in Software Engineering and Management, I am a seasoned Enterprise Cloud Architect.
-I recently completedmy master’s in Cloud Computing Engineering, adding a fresh perspective tomy wealth of knowledge.
+I recently completed my master’s in Cloud Computing Engineering, adding a fresh perspective tomy wealth of knowledge.
 For the past 12 years, I’ve specialized as an Enterprise Solution Architect in the Aviation Industry, in digital transformation
 strategies to both Public Sector and Enterprise clients.
 
