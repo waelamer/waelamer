@@ -82,14 +82,16 @@ strategies to both Public Sector and Enterprise clients.
 
 ## Publications
 
-- **Cloud Native | Monitoring Microservices Architecture** (Posted: July 1, 2022)  
-  [Link](https://github.com/waelamer/FH-Msc-Microservice-Monitoring)
+- [**Maximizing Efficiency and Organization with Azure Tag Management** (Posted: Mar 28, 2024)](https://medium.com/@wael.amer/maximizing-efficiency-and-organization-with-azure-tag-management-a9f7f0b1a9ea)
 
-- **Evaluating the Performance of IoT Protocols** (Posted: August 1, 2022)  
-  [Link](https://github.com/melashkr/technical-articles/tree/main/evaluating-iot-protocols)
+- [**Cloud Native | Monitoring Microservices Architecture** (Posted: July 1, 2022) ](https://github.com/waelamer/FH-Msc-Microservice-Monitoring)
+  
 
-- **DBLayer Wizard V 1.0** (Posted: October 18, 2005)  
-  [Link](https://www.codeproject.com/Articles/11989/DBLayer-Wizard-V-1-0)
+- [**Evaluating the Performance of IoT Protocols** (Posted: August 1, 2022)  ](https://github.com/melashkr/technical-articles/tree/main/evaluating-iot-protocols)
+  
+
+- [**DBLayer Wizard V 1.0** (Posted: October 18, 2005)  ](https://www.codeproject.com/Articles/11989/DBLayer-Wizard-V-1-0)
+  
 
 ---
 
