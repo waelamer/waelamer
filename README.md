@@ -28,7 +28,7 @@ strategies to both Public Sector and Enterprise clients.
 
 ## Certifications
 
-- **Microsoft Certified: Azure Solutions Architect Expert** (2021)
+- [**Microsoft Certified: Azure Solutions Architect Expert** (2021)](https://learn.microsoft.com/en-gb/users/waelamer-7865/transcript/d5l1pfr3jz9jkm2)
 - **Microsoft Certified Professional Developer, ASP.NET Developer 3.5** (2010)
 - **Developing XML Web Services and Server Components with Microsoft Visual C# and the .NET Framework** (2005)
 - **Developing and Implementing Web Applications with Microsoft Visual C# .NET and Visual Studio .NET** (2003)
