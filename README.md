@@ -23,6 +23,7 @@ strategies to both Public Sector and Enterprise clients.
 
 ### BSc in Computer Science
 - **Helwan University | June 2004 | Cairo, Egypt**
+  - **Graduation Project < Robot >** Graduation Project Grade < Excellent>.
 
 ---
 
