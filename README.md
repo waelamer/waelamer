@@ -99,5 +99,5 @@ strategies to both Public Sector and Enterprise clients.
 ## Additional Training
 
 - **Aviation Certifications (2016-2022)**: Integrity Compliance, General Security Awareness, Safety Management System Basic & Recurrent Training
-- **German Language Level B2 Certificate**: Vorstudienlehrgang der Wiener Universitäten (2005-2006)
+
 
